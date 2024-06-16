@@ -1,3 +1,8 @@
+h1,h2,h3,h4,h6 {
+  font-family: "Newsreader", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+}
  #navs {
     background-color: #ffffff;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.075);
@@ -137,3 +142,4 @@
   div .d-grid button{
     background-color: #0610a5b9 !important;
   }
+ 
